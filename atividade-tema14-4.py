@@ -7,4 +7,4 @@ horas = float(input("Digite as horas trabalhadas: "))
 valor = float(input("Digite o valor por hora: "))
 
 # Exibição do valor a ser pago
-print(f"Valor a ser pago: {pagamento(horas, valor)}")
+print("Valor a ser pago: ",pagamento(horas, valor))
